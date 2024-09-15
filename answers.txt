@@ -4,4 +4,12 @@ Answer: Git is very useful for collaboration purposes. We are able to track the 
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: I'm personally very interested in the intersection of healthcare and tech. As a result, I believe data science would be very beneficial to that field. A specific example of how it may be useful is monitoring disease outbreaks and rates. The careful analysis of these outbreaks may help with preventing outbreaks in the future and protect more people. 
+Answer: I'm personally very interested in the intersection of healthcare and tech. As a result, I believe data science would be very beneficial to that field. A specific example of how it may be useful is monitoring disease outbreaks and rates. The careful analysis of these outbreaks may help with preventing outbreaks in the future and protect more people.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: When you merge, it'll create a new commit that fully merges/combines the two branches but it keeps the history of all the commitsfor the individual branches. Rebasing is when the commit history is rewritten when two branches are integrated. Rebasing will give you a linear history while merging will preserve all of your history.
+
+
+
+ 
