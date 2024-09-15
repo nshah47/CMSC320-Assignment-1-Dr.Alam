@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git is very useful for collaboration purposes. We are able to track the changes made to files and also go to different versions of that file depending on the changes that were made. 
