@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git is very useful for collaboration purposes. We are able to track the changes made to files and also go to different versions of that file depending on the changes that were made. 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: I'm personally very interested in the intersection of healthcare and tech. As a result, I believe data science would be very beneficial to that field. A specific example of how it may be useful is monitoring disease outbreaks and rates. The careful analysis of these outbreaks may help with preventing outbreaks in the future and protect more people. 
